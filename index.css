@@ -1,0 +1,32 @@
+#display {
+    width: 70vw;
+    height: 100px;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+
+#numDisplay {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    background-color: white;
+}
+
+#controls {
+    width: 30vw;
+    margin: 50px auto;
+    text-align: center;
+}
